@@ -137,9 +137,11 @@ ul li a {
 	transition: background 400ms;
 }
 
-ul li a:hover {
+ul li a:hover, #btn-layout:hover {
 	background: var(--bg-color-hover);
 }
+
+
 
 footer {
 	font-weight: 500;
