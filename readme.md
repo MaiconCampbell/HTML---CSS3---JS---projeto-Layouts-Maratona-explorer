@@ -1,22 +1,34 @@
-# Projeto Surpresinha da Mega 💻
+# Projeto Links Redes Sociais 💻
 
-## Bibliotecas
+- HTML
+- CSS
 
--React
--FlexBox
 ## Motivação
 
-  - Criar uma app WEB para gerar numeros randômicos de acordo com o estado do componente input,;
-  - A geração acontece quando o botão "gerar número" e clicado;
-  - O campo input aceita números de 6 a 15;
-  ## Tela Inicial
-  ![alt text](https://github.com/MaiconCampbell/Surpresinha_Mega/blob/main/src/img/TelaInicial.png)
-  
-  ## Tela Sorteio (06 números)
-  ![alt text](https://github.com/MaiconCampbell/Surpresinha_Mega/blob/main/src/img/TelaSorteio_6.png)
+  - App desenvolvido na Semana explorer-2 pela @Rocketseat
+  - Varias temas criados com CSS
+  - Aplica-se o desing quando o body possuir a classe com o nome:
 
-  ## Tela Sorteio (15 números)
-  ![alt text](https://github.com/MaiconCampbell/Surpresinha_Mega/blob/main/src/img/TelaSorteio_15.png)
+  ## blue
+  ![alt text](https://github.com/MaiconCampbell/Maratona-explorer-2/blob/main/img/blue.png)
+  
+  ## brown
+  ![alt text](https://github.com/MaiconCampbell/Maratona-explorer-2/blob/main/img/brown.png)
+
+  ## dark-pink
+  ![alt text](https://github.com/MaiconCampbell/Maratona-explorer-2/blob/main/img/dark-pink.png)
+
+  ## dark
+  ![alt text](https://github.com/MaiconCampbell/Maratona-explorer-2/blob/main/img/dark.png)
+
+  ## green
+  ![alt text](https://github.com/MaiconCampbell/Maratona-explorer-2/blob/main/img/green.png)
+
+  ## orange
+  ![alt text](https://github.com/MaiconCampbell/Maratona-explorer-2/blob/main/img/orange.png)
+
+  ## pink
+  ![alt text](https://github.com/MaiconCampbell/Maratona-explorer-2/blob/main/img/pink.png)
 
 <div>
   <p style='font-size: 22px'>
